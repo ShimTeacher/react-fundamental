@@ -5,8 +5,8 @@ React 공부용 프로젝트입니다.
 
 # 설치하기
 
-git clone https://github.com/kwshimhyunbo/react-fundamental
-npm install -g webpack webpack-dev-server
-npm install
+        git clone https://github.com/kwshimhyunbo/react-fundamental
+        npm install -g webpack webpack-dev-server
+        npm install
 
 참고자료 [이동하기](git clone https://github.com/velopert/react-codelab-fundamentals.git)
